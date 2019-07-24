@@ -17,11 +17,15 @@ module.exports = function(app){
             for(var j = 0; j < friends[i].scores.length; j++){
                 score+= Math.abs(req.body.scores[j] - friends[i].scores[j])
             }
-
-            if(score < maxNum){
+            console.log(`the ${friends[i].name} score is ${score}}`)
+            if(score <= maxNum){
+                // console.log(`Current maxNum = ${maxNum}`)
+                maxNum = score
+                // console.log(`The most recent maxNum = ${maxNum}`)
                 bestMatch = friends[i];
             }
         }
+        console.log(req.body)
         friends.push(req.body);
         res.send(bestMatch);
     })

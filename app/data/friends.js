@@ -99,54 +99,6 @@ var friends = [
     "name": "Jose",
     "photo": "https://pub-static.haozhaopian.net/static/web/site/features/one-tap-enhance/images/1-tap-enhance_comparison_chart0cd39fa2358c48f674db97b65327666e.jpg",
     "scores": [
-    "2",
-    "2",
-    "2",
-    "3",
-    "1",
-    "2",
-    "2",
-    "3",
-    "2",
-    "2"
-    ]
-    },
-    {
-    "name": "Jose",
-    "photo": "https://pub-static.haozhaopian.net/static/web/site/features/one-tap-enhance/images/1-tap-enhance_comparison_chart0cd39fa2358c48f674db97b65327666e.jpg",
-    "scores": [
-    "4",
-    "2",
-    "2",
-    "3",
-    "1",
-    "2",
-    "2",
-    "3",
-    "2",
-    "2"
-    ]
-    },
-    {
-    "name": "Jose",
-    "photo": "https://pub-static.haozhaopian.net/static/web/site/features/one-tap-enhance/images/1-tap-enhance_comparison_chart0cd39fa2358c48f674db97b65327666e.jpg",
-    "scores": [
-    "4",
-    "2",
-    "2",
-    "3",
-    "1",
-    "2",
-    "3",
-    "3",
-    "2",
-    "2"
-    ]
-    },
-    {
-    "name": "Jose",
-    "photo": "https://pub-static.haozhaopian.net/static/web/site/features/one-tap-enhance/images/1-tap-enhance_comparison_chart0cd39fa2358c48f674db97b65327666e.jpg",
-    "scores": [
     "4",
     "2",
     "2",
@@ -173,22 +125,6 @@ var friends = [
     "2",
     "1",
     "2"
-    ]
-    },
-    {
-    "name": "test",
-    "photo": "h",
-    "scores": [
-    "1",
-    "1",
-    "1",
-    "1",
-    "1",
-    "1",
-    "1",
-    "1",
-    "1",
-    "1"
     ]
     },
     {
@@ -224,22 +160,6 @@ var friends = [
     ]
     },
     {
-    "name": "T",
-    "photo": "photo",
-    "scores": [
-    "1",
-    "4",
-    "2",
-    "1",
-    "3",
-    "3",
-    "5",
-    "4",
-    "1",
-    "3"
-    ]
-    },
-    {
     "name": "woop",
     "photo": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
     "scores": [
@@ -253,22 +173,6 @@ var friends = [
     "2",
     "1",
     "1"
-    ]
-    },
-    {
-    "name": "woop",
-    "photo": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-    "scores": [
-    "1",
-    "4",
-    "2",
-    "1",
-    "2",
-    "1",
-    "1",
-    "5",
-    "1",
-    "4"
     ]
     }
     ]
